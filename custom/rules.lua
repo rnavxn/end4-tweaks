@@ -25,3 +25,7 @@ hl.window_rule({match = {class = "^(PacketTracer)$" },                          
 hl.window_rule({match = {class = "^(PacketTracer)$" },                          float = true})
 hl.window_rule({match = {class = "^(brave-browser)$" },                         center = true})
 hl.window_rule({match = {class = "^(brave-browser)$" },                         float = true})
+hl.window_rule({match = {class = "^(google-chrome)$" },                         center = true})
+hl.window_rule({match = {class = "^(google-chrome)$" },                         float = true})
+hl.window_rule({match = {class = "^(google-chrome)$" },                         center = true})
+hl.window_rule({match = {class = "^(google-chrome)$" },                         float = true})
